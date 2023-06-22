@@ -1,0 +1,68 @@
+h1 {
+   font-size: 40px;
+   color: brown;
+   text-align: center;
+}
+
+h2 
+{
+color: brown;
+text-align: center;
+font-size: 28px;
+}
+
+nav > ul > li > a:hover {
+background-color: orange ;
+}
+
+.facts {
+color: green;
+font-size: 20px;
+}
+
+nav > ul{
+	list-style-type: none;
+   }
+
+   nav > ul > li > a {
+text-decoration: none;
+color: white;
+   }
+
+   nav > ul > li {
+   	display: inline;
+   	background-color: brown;
+   	padding: 14px 14px 14px 14px;
+   }
+
+body {
+background-color: lightyellow;
+}
+
+footer {
+text-align: right;	
+}
+	
+.facts_1 {
+color: darkorange;
+font-size: 17px;}
+
+.facts_2 {
+color: darkblue;
+font-size: 17px;}
+
+.adress {
+color: green;
+font-size: 20px;
+}
+
+#contact {
+color: darkorange;
+font-size: 20px;
+}
+
+#photo {
+color: green;
+font-size: 25px;
+text-align: center;
+}

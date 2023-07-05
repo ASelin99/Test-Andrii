@@ -1,8 +1,8 @@
-from random import randint
-number = randint(0, 3)
-print('Eagle or tails')
-if number == 0:
-    print('Eagle!')
+import random
+combination = input("Eagle or Tails?")
+win = random.choice(["Eagle", "Tails"])
+if win == combination:
+   print("Win")
 else:
-    print('Tails!')
+   print("Lose")
 
